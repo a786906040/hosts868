@@ -1,0 +1,13 @@
+127.0.0.1 dd823.wdnx.xyz
+127.0.0.1 www.baidu.com
+127.0.0.1 toblog.ctobsnssdk.com
+127.0.0.1 sdk.e.qq.com
+127.0.0.1 v.gdt.qq.com
+127.0.0.1 lanm.huliyinzi.com
+127.0.0.1 mi.gdt.qq.com
+127.0.0.1 lbs.map.qq.com
+127.0.0.1 v2.gdt.qq.com
+127.0.0.1 dd823.hjqy.xyz
+127.0.0.1 swimg2.tsderen.cn
+127.0.0.1 tianyu33.oss-cn-beijing.aliyuncs.com
+127.0.0.1 yp.sgupgtrs.cn
